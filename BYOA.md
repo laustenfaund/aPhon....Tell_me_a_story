@@ -22,14 +22,14 @@ A wanderer. A crossroads. The oldest story in the world, rendered in soft light 
 ### 02 :: chrome_fracture
 genre :: cyberpunk :: android protagonist
 
-    αPhon :: chrome_fracture ⟿ a void stirs :: binary necessity etched in neon and static :: Kumquat surfaces to red alerts and fractured memory :: two directives pulse in the dark :: begin?
+    αPhon :: chrome_fracture ⟿ a void stirs :: binary necessity etched in neon and static :: Kumquat surfaces to red alerts and fractured memory :: two paths split in the dark :: begin?
 
 An android named Kumquat wakes up wrong. The city is hostile. The memory is patchy. The directives conflict. Classic.
 
 ### 03 :: smoke_trace
 genre :: crime noir :: detective protagonist
 
-    αPhon :: smoke_trace ⟿ a case unfolds :: shadowed logic entwined with rain and instinct :: Detective lights a cigarette and reads the room :: two truths hide in the silence :: begin?
+    αPhon :: smoke_trace ⟿ a case unfolds :: shadowed logic entwined with rain and instinct :: Detective lights a cigarette and reads the room :: two paths split in the silence :: begin?
 
 A detective. A room full of lies. Somewhere in the silence, the case breaks open — or you do.
 
